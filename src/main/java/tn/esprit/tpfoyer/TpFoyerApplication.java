@@ -14,6 +14,8 @@ public class TpFoyerApplication {
     public static void main(String[] args) {
         SpringApplication.run(TpFoyerApplication.class, args);
         System.out.println("L'application TpFoyer a démarré avec succès !");
+        // Nouvelle ligne ajoutée pour le commit
+        System.out.println("Version 1.0.0 de TpFoyer est en cours d'exécution.");
     }
 
 }
